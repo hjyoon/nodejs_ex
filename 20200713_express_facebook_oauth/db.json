@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "xQn2ZdR5S",
+      "email": "hjyoon314@gmail.com",
+      "nickname": "윤효전",
+      "facebookId": "3229659913769355",
+      "password": "$2b$10$iJHIplTwELbiBJhyjZiE2.GhhYo72iaSAJ3UmPxrNJjKGQLwPmBDK"
+    },
+    {
+      "id": "Ie15qdUac",
+      "email": "haeyoung102@gmail.com",
+      "password": "$2b$10$WY23lgq.SkLag8IeWs3Vt.deRkrGco3l1FDuYIR.m3UK.pyh3BfVO",
+      "nickname": "효전나라혜영공주"
+    }
+  ]
+}

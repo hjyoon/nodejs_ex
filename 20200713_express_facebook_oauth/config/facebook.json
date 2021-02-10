@@ -1,0 +1,6 @@
+{
+	"clientID": "2744348929223810",
+	"clientSecret": "153e317b98e11999a12a0de7f9249616",
+	"callbackURL": "http://localhost:3000/auth/facebook/callback",
+	"profileFields": ["id", "emails", "name", "displayName"]
+}

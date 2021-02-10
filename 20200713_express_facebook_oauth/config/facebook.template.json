@@ -1,0 +1,6 @@
+{
+	"clientID": "",
+	"clientSecret": "",
+	"callbackURL": "",
+	"profileFields": ["id", "emails", "name", "displayName"]
+}
